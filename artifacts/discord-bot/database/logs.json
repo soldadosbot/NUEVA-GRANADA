@@ -1,1 +1,23 @@
-{}
+{
+  "1780068293011": {
+    "timestamp": "29/05/2026, 10:24:52",
+    "tipo": "ERROR",
+    "accion": "UncaughtException",
+    "usuario": "Sistema",
+    "detalle": "listen EADDRINUSE: address already in use 0.0.0.0:3001"
+  },
+  "1780069504178": {
+    "timestamp": "29/05/2026, 10:45:04",
+    "tipo": "ERROR",
+    "accion": "Comando /votacion",
+    "usuario": "cristianarleyarroyave",
+    "detalle": "Unknown interaction"
+  },
+  "1780069504553": {
+    "timestamp": "29/05/2026, 10:45:04",
+    "tipo": "VOTACION",
+    "accion": "Votación iniciada",
+    "usuario": "cristianarleyarroyave",
+    "detalle": "ID: vot_1780069503882 | Duración: 25min"
+  }
+}

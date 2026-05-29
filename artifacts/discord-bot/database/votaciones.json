@@ -1,1 +1,30 @@
-{}
+{
+  "vot_1780069503879": {
+    "id": "vot_1780069503879",
+    "creador": "1429448280852529342",
+    "creadorTag": "cristianarleyarroyave",
+    "inicio": "2026-05-29T15:45:03.879Z",
+    "fin": "2026-05-29T16:10:03.879Z",
+    "votos": {
+      "si": [],
+      "no": []
+    },
+    "activa": true,
+    "resultado": null
+  },
+  "vot_1780069503882": {
+    "id": "vot_1780069503882",
+    "creador": "1429448280852529342",
+    "creadorTag": "cristianarleyarroyave",
+    "inicio": "2026-05-29T15:45:03.882Z",
+    "fin": "2026-05-29T16:10:03.882Z",
+    "votos": {
+      "si": [
+        "1429448280852529342"
+      ],
+      "no": []
+    },
+    "activa": true,
+    "resultado": null
+  }
+}
