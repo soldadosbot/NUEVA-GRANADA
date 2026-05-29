@@ -9,5 +9,21 @@
     "discordTag": "cristianarleyarroyave",
     "avatarURL": "https://cdn.discordapp.com/avatars/1429448280852529342/c16bbfc477f0c2a1bfc2a18e26e96adf.png",
     "fechaRegistro": "2026-05-29T16:54:37.189Z"
+  },
+  "exp_1429448280852529342": {
+    "userId": "1429448280852529342",
+    "arrestos": [
+      "arresto_1780074025819"
+    ],
+    "multas": [],
+    "notas": []
+  },
+  "exp_1449471476670660772": {
+    "userId": "1449471476670660772",
+    "arrestos": [],
+    "multas": [
+      "multa_1780074125216"
+    ],
+    "notas": []
   }
 }

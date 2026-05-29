@@ -47,5 +47,61 @@
     "accion": "Licencia emitida",
     "usuario": "cristianarleyarroyave",
     "detalle": "Cat: B | N°: LIC-6G4X7HUT"
+  },
+  "arresto_1780074025819": {
+    "tipo": "ARRESTO",
+    "arrestoId": "arresto_1780074025819",
+    "ciudadanoId": "1429448280852529342",
+    "ciudadanoTag": "cristianarleyarroyave",
+    "nombreCiudadano": "CRISTIAN ARROYAVE",
+    "motivo": "prueba",
+    "cargo": "porte de arma",
+    "tiempo": 10,
+    "oficialId": "1429448280852529342",
+    "oficialTag": "cristianarleyarroyave",
+    "fecha": "2026-05-29T17:00:25.819Z",
+    "estado": "activo"
+  },
+  "1780074028172": {
+    "timestamp": "29/05/2026, 12:00:28",
+    "tipo": "ARRESTO",
+    "accion": "Ciudadano arrestado",
+    "usuario": "cristianarleyarroyave",
+    "detalle": "CRISTIAN ARROYAVE | Motivo: prueba"
+  },
+  "multa_1780074125216": {
+    "tipo": "MULTA",
+    "multaId": "multa_1780074125216",
+    "ciudadanoId": "1449471476670660772",
+    "ciudadanoTag": "konnel1414",
+    "nombreCiudadano": "konnel1414",
+    "infraccion": "Saltarse semáforo en rojo",
+    "monto": 800,
+    "oficialId": "1429448280852529342",
+    "oficialTag": "cristianarleyarroyave",
+    "fecha": "2026-05-29T17:02:05.216Z",
+    "estado": "pendiente",
+    "detalle": ""
+  },
+  "1780074127025": {
+    "timestamp": "29/05/2026, 12:02:07",
+    "tipo": "MULTA",
+    "accion": "Multa emitida",
+    "usuario": "cristianarleyarroyave",
+    "detalle": "konnel1414 | Saltarse semáforo en rojo | $800"
+  },
+  "1780074149688": {
+    "timestamp": "29/05/2026, 12:02:29",
+    "tipo": "EXPEDIENTE",
+    "accion": "Expediente consultado",
+    "usuario": "cristianarleyarroyave",
+    "detalle": "konnel1414"
+  },
+  "1780074225148": {
+    "timestamp": "29/05/2026, 12:03:45",
+    "tipo": "EXPEDIENTE",
+    "accion": "Expediente consultado",
+    "usuario": "cristianarleyarroyave",
+    "detalle": "CRISTIAN ARROYAVE"
   }
 }
