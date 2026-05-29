@@ -1,1 +1,16 @@
-{}
+{
+  "1429448280852529342": {
+    "userId": "1429448280852529342",
+    "discordTag": "cristianarleyarroyave",
+    "discordId": "1429448280852529342",
+    "nombre": "CRISTIAN",
+    "apellido": "ARROYAVE",
+    "edad": 26,
+    "nacionalidad": "COLOMBIA",
+    "fechaNacimiento": "2000-04-19T00:00:00.000Z",
+    "numeroCedula": "10000001",
+    "fechaEmision": "2026-05-29T16:52:43.473Z",
+    "fechaVencimiento": "2036-05-29T16:52:43.473Z",
+    "avatarURL": "https://cdn.discordapp.com/avatars/1429448280852529342/c16bbfc477f0c2a1bfc2a18e26e96adf.png?size=256"
+  }
+}

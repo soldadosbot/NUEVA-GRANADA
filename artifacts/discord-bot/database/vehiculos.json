@@ -1,1 +1,13 @@
-{}
+{
+  "EME-568": {
+    "placa": "EME-568",
+    "marca": "toyota",
+    "modelo": "camioneta",
+    "color": "camuflaje",
+    "propietario": "CRISTIAN ARROYAVE",
+    "userId": "1429448280852529342",
+    "discordTag": "cristianarleyarroyave",
+    "avatarURL": "https://cdn.discordapp.com/avatars/1429448280852529342/c16bbfc477f0c2a1bfc2a18e26e96adf.png",
+    "fechaRegistro": "2026-05-29T16:54:37.189Z"
+  }
+}

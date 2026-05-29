@@ -19,5 +19,33 @@
     "accion": "Votación iniciada",
     "usuario": "cristianarleyarroyave",
     "detalle": "ID: vot_1780069503882 | Duración: 25min"
+  },
+  "1780073329227": {
+    "timestamp": "29/05/2026, 11:48:49",
+    "tipo": "ALERTA",
+    "accion": "Alerta Verde activada",
+    "usuario": "cristianarleyarroyave",
+    "detalle": "Zona: toda la cuidad"
+  },
+  "1780073565133": {
+    "timestamp": "29/05/2026, 11:52:45",
+    "tipo": "CEDULA",
+    "accion": "Cédula registrada",
+    "usuario": "cristianarleyarroyave",
+    "detalle": "N°: 10000001"
+  },
+  "1780073677740": {
+    "timestamp": "29/05/2026, 11:54:37",
+    "tipo": "VEHICULO",
+    "accion": "Vehículo registrado",
+    "usuario": "cristianarleyarroyave",
+    "detalle": "Placa: EME-568 | toyota camioneta"
+  },
+  "1780073770247": {
+    "timestamp": "29/05/2026, 11:56:10",
+    "tipo": "LICENCIA",
+    "accion": "Licencia emitida",
+    "usuario": "cristianarleyarroyave",
+    "detalle": "Cat: B | N°: LIC-6G4X7HUT"
   }
 }
