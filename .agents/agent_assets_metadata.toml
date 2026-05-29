@@ -1,0 +1,8 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "fIte66fn6UwcfAQr2CrsZ"
+uri = "file://discord-bot.tar.gz"
+type = "unspecified"
+title = "Discord Bot RP Premium"
