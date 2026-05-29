@@ -1,0 +1,19 @@
+{
+  "name": "@workspace/discord-bot",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "deploy": "node handlers/deployCommands.js"
+  },
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.68",
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "node-cron": "^3.0.3",
+    "qrcode": "^1.5.4"
+  }
+}
