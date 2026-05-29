@@ -1,0 +1,28 @@
+kind = "api"
+previewPath = "/bot"
+title = "Discord Bot RP Premium"
+version = "1.0.0"
+
+[[services]]
+localPort = 3001
+name = "Discord Bot"
+paths = ["/bot"]
+
+[services.development]
+run = "node artifacts/discord-bot/index.js"
+
+[services.production]
+deploymentTarget = "vm"
+
+[services.production.build]
+args = ["npm", "install", "--prefix", "artifacts/discord-bot"]
+
+[services.production.run]
+args = ["node", "artifacts/discord-bot/index.js"]
+
+[services.production.run.env]
+PORT = "3001"
+NODE_ENV = "production"
+
+[services.production.health.startup]
+path = "/api/stats"
